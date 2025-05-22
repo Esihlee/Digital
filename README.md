@@ -4,7 +4,6 @@ Welcome to my digital portfolio, created for the PRP370S assessment at Cape Peni
 
 ---
 
-
 ## About Me
 
 **Esihle Mlinjana**  
@@ -21,5 +20,5 @@ Driven and passionate final-year ICT Applications Development student specializi
 
 Through career counselling sessions during my studies, I identified my strengths in front-end and mobile development and set clear career goals. These sessions guided my decision to pursue roles in software development, leading to my current position at Plum Systems.
 
-- **Artefact**: [Career Plan Summary](https://github.com/Esihle/Digital/raw/main/assets/career-plan.pdf) 
+- **Artefact**: [Career Plan Summary](https://github.com/Esihlee/Digital/raw/main/assets/career-plan.pdf) 
 - **Reference**: Mr. Luyolo Skoma, Team Lead at Plum Systems (luyolo@plum.systems), provided guidance during my career planning.
