@@ -55,6 +55,85 @@ My technical and soft skills, developed through academic projects and work exper
 - **Result**: The feature was deployed successfully, increasing user engagement by 20%, as confirmed by the product manager.
 
 ---
+
+### 4. Create a CV
+# Esihle Mlinjana
+
+📞 073 553 7078  
+📧 mlinjanae@gmail.com  
+
+---
+
+## 👤 Profile
+
+Driven and passionate final-year ICT Applications Development student specializing in **React**, **React Native**, **PHP**, **Kotlin**, and **UI/UX design**. I began my journey in the tech industry eager to apply my skills in real-world projects and grow as a developer.
+
+Organized and collaborative, I thrive in team environments and enjoy leading projects that deliver scalable, user-friendly web and mobile applications. Committed to continuous learning, I aim to deepen my expertise in front-end and mobile development while contributing innovative solutions to challenging problems.
+
+---
+
+## 💼 Work Experience
+
+**Plum Systems**  
+_Mobile and Web Developer_  
+📅 January 2025 – Present  
+
+- Developed and maintained mobile applications using **React Native** and **Android (Kotlin)** for both iOS and Android platforms.
+- Built responsive, interactive user interfaces with **React.js**, **JavaScript**, **HTML**, and **CSS**.
+- Collaborated with cross-functional teams to design and implement new features aligned with user needs and business goals.
+- Ensured applications were scalable, user-friendly, and visually consistent across devices.
+- Assisted in debugging and troubleshooting to maintain app stability and performance.
+
+---
+
+## 🎓 Education
+
+**Diploma in Information and Communication Technology – Applications Development**  
+📍 Cape Peninsula University of Technology  
+📅 2022 – 2025  
+
+**National Senior Certificate (Grade 12)**  
+📍 Masibambisane Secondary School  
+📅 Jan 2021 – Dec 2021  
+
+---
+
+## 🛠️ Skills
+
+### 💻 Technical Skills
+- **Mobile Development:** React Native, Kotlin (Android)  
+- **Front-End Development:** React.js, JavaScript, HTML, CSS  
+- **Back-End Development:** PHP, Node.js  
+- **Database Management:** MySQL, Firebase  
+- **UI/UX Design:** Figma, Adobe XD  
+- **Version Control:** Git, GitHub, GitLab  
+- **Software Development Lifecycle:** Agile, Scrum  
+
+### 🌟 Soft Skills
+- Problem-Solving  
+- Team Collaboration  
+- Leadership  
+
+---
+
+## 📇 References
+
+**Mr. Luyolo Skoma**  
+Team Lead – Mobile and Software Developer  
+📧 luyolo@plum.systems  
+
+**Mr. Ongeziwe Mtolo**  
+DevOps Engineer – Personal Mentor  
+📧 ongeziwem@betsoftware.com  
+---
+#### Reflection (STAR Technique)
+
+- **Situation**: In 2024, I worked on a group project at CPUT that required collaboration among diverse team members.
+- **Task**: My task was to lead the front-end development while fostering team cohesion.
+- **Action**: I leveraged my collaborative nature to facilitate sprint planning, used my detail-oriented approach to ensure code quality, and adapted to feedback from teammates.
+- **Result**: The project was delivered on time, with the client praising the intuitive interface and seamless functionality.
+---
+
 ### 5. CV Submission
 
 #### Evidence
@@ -62,3 +141,8 @@ I submitted my CV to multiple job portals and internship programs, including Plu
 
 - **Artefact**: [Submitted CV PDF](https://github.com/Esihlee/Digital/raw/main/assets/Esihle_Mlinjana_CV.pdf) 
 - **Artefact**: [Blackboard Submission Confirmation](https://github.com/Esihlee/Digital/raw/main/assets/Jobsearch.pdf)
+
+---
+## Conclusion
+
+This digital portfolio reflects my journey as an ICT Applications Development student, showcasing my skills, experiences, and growth. Through career counselling, skill development, personality assessments, and CV creation, I have prepared for a successful career in software development.
