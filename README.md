@@ -46,3 +46,19 @@ My technical and soft skills, developed through academic projects and work exper
 - **Interests**: Developing user-friendly applications, exploring new JavaScript frameworks, and mentoring junior developers.
 
 - **Artefact**: [Java Project Repository](https://github.com/Esihlee/adpT4) 
+
+#### Reflection (STAR Technique)
+
+- **Situation**: In January 2025, at Plum Systems, I was assigned to develop a new feature for a mobile application.
+- **Task**: My task was to design and implement a responsive, user-friendly interface using React Native.
+- **Action**: I created prototypes in Figma, coded the feature in React Native, collaborated with my team via GitHub, and incorporated user feedback to ensure usability.
+- **Result**: The feature was deployed successfully, increasing user engagement by 20%, as confirmed by the product manager.
+
+---
+### 5. CV Submission
+
+#### Evidence
+I submitted my CV to multiple job portals and internship programs, including Plum Systems, which resulted in my current role. The CV was also submitted for this assessment via Blackboard.
+
+- **Artefact**: [Submitted CV PDF](https://github.com/Esihlee/Digital/raw/main/assets/Esihle_Mlinjana_CV.pdf) 
+- **Artefact**: [Blackboard Submission Confirmation](https://github.com/Esihlee/Digital/raw/main/assets/Jobsearch.pdf)
