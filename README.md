@@ -46,6 +46,7 @@ My technical and soft skills, developed through academic projects and work exper
 - **Interests**: Developing user-friendly applications, exploring new JavaScript frameworks, and mentoring junior developers.
 
 - **Artefact**: [Java Project Repository](https://github.com/Esihlee/adpT4) 
+- **Artefact**: [Kotlin Project Repository](https://github.com/Esihlee/KittyLogin) 
 
 #### Reflection (STAR Technique)
 
